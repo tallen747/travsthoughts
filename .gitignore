@@ -13,3 +13,6 @@ Thumbs.db
 
 # Hugo lock file
 .hugo_build.lock
+
+# Workspace Files
+*.code-workspace
